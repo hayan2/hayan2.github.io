@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7334c815.css",
+    "main.js": "/static/js/main.ed9fafd2.js",
+    "static/js/787.92a18b99.chunk.js": "/static/js/787.92a18b99.chunk.js",
+    "static/media/head-palgong.jpg": "/static/media/head-palgong.2c5c06fc147badc0df52.jpg",
+    "static/media/spahotel.png": "/static/media/spahotel.ad590b3cca0ab4e2e75d.png",
+    "static/media/goldentime.png": "/static/media/goldentime.c5eb606d00c8c7418d20.png",
+    "static/media/maxhotel.png": "/static/media/maxhotel.1a2f24a7ccbacddada70.png",
+    "static/media/grandhotel.png": "/static/media/grandhotel.e6b4a7cd4e7d2e3a9f39.png",
+    "static/media/zzarahotel.png": "/static/media/zzarahotel.466d6938ae0ac020c0b8.png",
+    "static/media/tforu.png": "/static/media/tforu.4032d7e9201e328be7ed.png",
+    "static/media/dontknow.png": "/static/media/dontknow.97a0ebed7ed00a7a4da3.png",
+    "static/media/palgong.jpg": "/static/media/palgong.d0e48c1487a2f9808e58.jpg",
+    "static/media/jbhotel.png": "/static/media/jbhotel.4f1da1978c6a19cf096e.png",
+    "index.html": "/index.html",
+    "main.7334c815.css.map": "/static/css/main.7334c815.css.map",
+    "main.ed9fafd2.js.map": "/static/js/main.ed9fafd2.js.map",
+    "787.92a18b99.chunk.js.map": "/static/js/787.92a18b99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7334c815.css",
+    "static/js/main.ed9fafd2.js"
+  ]
+}
